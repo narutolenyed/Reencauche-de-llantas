@@ -45,5 +45,7 @@ Antes de implementar este sistema, la organización y agregación de nuevos clie
 ```bash
 git clone https://github.com/narutolenyed/Reencauche-de-llantas.git
 
-AUTOR DEL PROYECTO
-ANDERSON PAUL GUEVARA SACAPI
+
+## Autor del proyecto 
+Anderson Guevara
+

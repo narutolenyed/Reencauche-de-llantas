@@ -7,3 +7,4 @@ Route::get('/', function () {
 });
 
 Route::resource('llantas', LlantaController::class);
+
